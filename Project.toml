@@ -1,0 +1,4 @@
+name = "AustralianLandscapeWaterBalance"
+uuid = "37a41523-9019-4886-9879-2c1782851b5a"
+authors = ["Peter Shin <petershintech@gmail.com>"]
+version = "0.1.0"
